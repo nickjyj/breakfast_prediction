@@ -3,6 +3,12 @@ Authors: [Yijun Jiang](https://www.linkedin.com/in/nickjyj), Miao Luo, [Sean Ban
 
 ---
 
+
+https://user-images.githubusercontent.com/46984040/121628825-ffead180-ca47-11eb-96fc-c7822ceca75b.mov
+
+
+
+
 <img width="950" alt="breakfast_cnn" src="https://user-images.githubusercontent.com/46984040/121627310-1ba0a880-ca45-11eb-900a-64ea790089f0.png">
 
 # Abstract
